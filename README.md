@@ -111,6 +111,10 @@ certificates/
 
 \---
 
+## Drawbacks
+
+* Gmail can send upto 500 emails per day only so if more than 500 then you will have to use another account or wait for 24 hrs for the limit to reset
+
 ## Security Notes
 
 * Never commit `.env`
